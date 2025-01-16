@@ -11,7 +11,7 @@ function typeText() {
   if (index < text.length) {
     typedTextElement.textContent += text[index];
     index++;
-    setTimeout(typeText, 100);
+    setTimeout(typeText, 70);
   } else {
     setTimeout(() => {
       linkContainer.classList.remove("hidden");
