@@ -1,5 +1,5 @@
 const text =
-  "Поздравляю с днем рождения! Желаю денег, счастья, здоровья, удачу и пизды в придачу! А также множество новых и интересных проектов!";
+  "Поздравляю с днём рождения! Желаю денег, счастья, здоровья, удачи и пизды в придачу, а также множества новых и интересных проектов!";
 const typedTextElement = document.getElementById("typed-text");
 const asciiBg = document.getElementById("ascii-bg");
 const linkContainer = document.getElementById("link-container");
